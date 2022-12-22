@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/akhilrathipelly" target="blank"><img src="https://img.shields.io/twitter/follow/akhilrathipelly?logo=twitter&style=for-the-badge" alt="akhilrathipelly" /></a> </p>
 
+  -👨‍👨‍ I’m looking to collaborate on Github
+
 - 👨‍💻 All of my projects are available at [https://akhil2707.github.io/portfolio/](https://akhil2707.github.io/portfolio/)
 
 - 💬 Ask me about **react,js,nodejs**
